@@ -3,7 +3,7 @@ import 'package:fl_components/screens/screens.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {
-  static const initialRoute = 'card';
+  static const initialRoute = 'home';
   static final menuOptions = <MenuOption>[
     // TODO: borrar home
     MenuOption(
